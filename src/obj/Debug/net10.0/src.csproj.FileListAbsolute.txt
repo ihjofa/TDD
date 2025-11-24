@@ -1,0 +1,11 @@
+/mnt/d/TDD/src/bin/Debug/net10.0/src.deps.json
+/mnt/d/TDD/src/bin/Debug/net10.0/src.dll
+/mnt/d/TDD/src/bin/Debug/net10.0/src.pdb
+/mnt/d/TDD/src/obj/Debug/net10.0/src.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/TDD/src/obj/Debug/net10.0/src.AssemblyInfoInputs.cache
+/mnt/d/TDD/src/obj/Debug/net10.0/src.AssemblyInfo.cs
+/mnt/d/TDD/src/obj/Debug/net10.0/src.csproj.CoreCompileInputs.cache
+/mnt/d/TDD/src/obj/Debug/net10.0/src.dll
+/mnt/d/TDD/src/obj/Debug/net10.0/refint/src.dll
+/mnt/d/TDD/src/obj/Debug/net10.0/src.pdb
+/mnt/d/TDD/src/obj/Debug/net10.0/ref/src.dll
